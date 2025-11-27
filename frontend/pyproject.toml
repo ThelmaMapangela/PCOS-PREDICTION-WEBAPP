@@ -7,8 +7,8 @@ package-mode = false  # Important! Do NOT try to install as a package
 
 dependencies = [
     "pandas>=2.2.3",
-    "scikit-learn=1.6.1",
-    "streamlit=1.41.1",
+    "scikit-learn>=1.6.1",
+    "streamlit>=1.41.1",
 ]
 
 [tool.uv.workspace]
