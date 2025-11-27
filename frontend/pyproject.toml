@@ -1,5 +1,5 @@
 [project]
-name = "pcos-detection"
+name = "pcos-prediction-model"
 version = "0.1.0"
 description = "PCOS prediction web app using ML"
 requires-python = ">=3.10"
