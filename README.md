@@ -54,7 +54,7 @@ Age, lifestyle score, and estimated undiagnosed PCOS probability exhibited only 
 These notebooks present show how I prepared the data, analyzed feature importance, and chosen the perfect model.
 
 
-- **URL to the deployed service**: [https://pcosdetection.streamlit.app/] 🌐
+- **URL to the deployed service**: [https://pcosdetection.streamlit.app/] 
 - Steps to deploy to Streamlit Cloud
   - Login/Signup for streamlit cloud from here [https://share.streamlit.io/]
 
