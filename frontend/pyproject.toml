@@ -1,13 +1,15 @@
 [project]
-name="pcos-detection"
+name = "pcos-detection"
 version = "0.1.0"
-description = "Add your description here"
+description = "PCOS prediction web app using ML"
 requires-python = ">=3.10"
-package-mode = false
+package-mode = false  # Important! Do NOT try to install as a package
+
 dependencies = [
     "pandas>=2.2.3",
     "scikit-learn>=1.6.1",
     "streamlit>=1.41.1",
+    "numpy>=2.3.5"
 ]
 
 [tool.uv.workspace]
